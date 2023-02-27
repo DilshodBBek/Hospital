@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalUI", "HospitalUI.csproj", "{A8F82D9B-B7FC-4881-A9C2-A34955DB7E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalUI", "HospitalUI.csproj", "{A8F82D9B-B7FC-4881-A9C2-A34955DB7E2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{999CCA79-AAF6-46B6-B3A6-FD113E5324FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\Domain\Domain.csproj", "{999CCA79-AAF6-46B6-B3A6-FD113E5324FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "..\Application\Application.csproj", "{373E5BCE-0F79-4171-8891-7FA7EECDD54B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "..\Application\Application.csproj", "{373E5BCE-0F79-4171-8891-7FA7EECDD54B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{A9603903-E7BD-415E-B80B-BAD6AE16B39A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{A9603903-E7BD-415E-B80B-BAD6AE16B39A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
